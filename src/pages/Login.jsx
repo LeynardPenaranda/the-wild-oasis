@@ -20,10 +20,6 @@ function Login() {
       <Logo />
       <Heading as="h4">Log in to your account</Heading>
       <LoginForm />
-      <p>
-        Forgot password?
-        <Link to="/recover">Click here</Link>
-      </p>
     </LoginLayout>
   );
 }

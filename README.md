@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # The Wild Oasis
 
-Main project in Jonay SchmedTmann's Ultimate React Course.
+Main project in Jonay SchmedTmann's Ultimate React Course. I modify it
